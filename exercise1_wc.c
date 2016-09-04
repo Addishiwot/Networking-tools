@@ -56,6 +56,7 @@ int main ( int argc, char *argv[] )
                     printf("%c",ch);
             }
             printf("the number of lines is : %d \n",line_counter);
+	    printf("hello");
             printf("the number of characters is : %d \n",character_counter);
             fclose( file );
         
